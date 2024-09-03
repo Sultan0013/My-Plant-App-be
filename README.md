@@ -16,7 +16,7 @@ https://my-plants-be.onrender.com/api
 
 ### HTTPS:
 
-    git clone https://github.com/odonnellrory/my-plants-BE.git
+   git clone https://github.com/Sultan0013/My-Plant-App-be.git
 
 ### SSH:
 
