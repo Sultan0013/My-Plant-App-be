@@ -18,9 +18,6 @@ https://my-plants-be.onrender.com/api
 
    git clone https://github.com/Sultan0013/My-Plant-App-be.git
 
-### SSH:
-
-    git clone git@github.com:odonnellrory/my-plants-BE.git
 
 - To download the dependencies run the following command in the terminal:
 
